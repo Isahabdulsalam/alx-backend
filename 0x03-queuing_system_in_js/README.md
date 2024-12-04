@@ -27,5 +27,5 @@ By the end of this project, you should be able to explain the following concepts
 ## Setup Instructions
 ### 1. Clone the repository
 ```sh
-git clone https://github.com/your-username/redis-nodejs-project.git
+git clone https://github.com/isahabdulsalam/0x03-queuing_system_in_js.git
 cd redis-nodejs-project
