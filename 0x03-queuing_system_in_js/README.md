@@ -28,4 +28,4 @@ By the end of this project, you should be able to explain the following concepts
 ### 1. Clone the repository
 ```sh
 git clone https://github.com/isahabdulsalam/0x03-queuing_system_in_js.git
-cd redis-nodejs-project
+cd 0x03-queuing_system_in_js
